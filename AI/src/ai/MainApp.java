@@ -18,7 +18,7 @@ import ai.gui.view.classes.Show;
 
 public class MainApp extends JFrame
 {
-
+	//HAHA
 	public final static Color BACK = new Color(23, 23, 23);
 	public final static Color FRONT = new Color(250, 250, 250);
 	public final static String[] MODE_NAMES =
